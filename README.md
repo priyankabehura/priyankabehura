@@ -81,23 +81,10 @@
 
 ### 🌸 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyankabehura&show_icons=true&theme=gruvbox&hide_border=true" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabehura&theme=gruvbox&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyankabehura&theme=gruvbox&no-frame=true&row=1&column=6" />
+
+<img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=gruvbox&hide_border=true" />
+
 </p>
 
 ---
@@ -115,6 +102,7 @@
 ### 🌸 Featured Projects
 
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
+
 End-to-end analysis of sales, profit, regional performance, and cancellations/returns on 3,000+ records using Excel (data cleaning, pivot tables) and Power BI (DAX measures, interactive dashboard).
 
 ---
