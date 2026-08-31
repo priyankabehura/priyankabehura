@@ -1,3 +1,4 @@
+
 <!-- Banner - Warm Orange-Yellow Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE29A,50:FFC371,100:FF9A44&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=5C3A1A&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=58&descSize=17&descColor=6E4A22" />
 
@@ -82,9 +83,7 @@
 ### 🌻 GitHub Analytics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=solarized-dark&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=solarized-dark&hide_border=true" />
 </p>
 
 ---
@@ -102,8 +101,28 @@
 ### 🌻 Featured Projects
 
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
+* **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
+* **Tech Stack:** Microsoft Excel (ETL & PivotTables), Power BI (DAX measures, interactive reporting).
+* **Key Focus:** Electronics revenue contribution (57.92%), regional sales distribution, and order peak hours.
 
-End-to-end analysis of sales, profit, regional performance, and cancellations/returns on 3,000+ records using Excel (data cleaning, pivot tables) and Power BI (DAX measures, interactive dashboard).
+<p align="center">
+  <a href="https://github.com/priyankabehura/amazon-sales-performance-dashboard">
+    <img src="https://raw.githubusercontent.com/priyankabehura/amazon-sales-performance-dashboard/main/IMG-20260809-WA0002.jpg" width="95%" alt="Amazon Sales Performance Dashboard Preview" />
+  </a>
+</p>
+
+<br/>
+
+**💄 [Nykaa Beauty & Personal Care Sales Analytics](https://github.com/priyankabehura/nykaa-sales-analytics)**
+* **Overview:** Interactive Excel sales dashboard evaluating ₹19L+ in net sales and ₹2,542 Average Order Value across 750 orders.
+* **Tech Stack:** Microsoft Excel (PivotTables, Connected Slicers, Custom KPI Cards, Donut & Bar Visuals).
+* **Key Focus:** Fragrance category leadership (29% share), city demand patterns (Bengaluru leading), and peak sales on Friday.
+
+<p align="center">
+  <a href="https://github.com/priyankabehura/nykaa-sales-analytics">
+    <img src="https://raw.githubusercontent.com/priyankabehura/nykaa-sales-analytics/main/IMG-20260711-WA0000.jpg" width="95%" alt="Nykaa Sales Dashboard Preview" />
+  </a>
+</p>
 
 ---
 
