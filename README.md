@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/priyankabehura" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
 </p>
 
@@ -19,12 +20,13 @@
 <tr>
 <td width="60%" valign="top">
 
-- 💠 Based in West Bengal, India
-- 💠 Transitioned into Data Analytics from a **History Honours** background (University of Kalyani)
-- 💠 Self-taught: **Excel, SQL, Power BI, and Python**
-- 💠 Skilled in **DAX, data modeling, and interactive dashboarding**
-- 💠 Comfortable owning a project end-to-end — from raw data, to cleaning, to a published dashboard
-- 💠 Currently preparing for Data Analyst interviews
+- 📍 Based in West Bengal, India
+- 🎓 B.A. Honours, University of Kalyani
+- 📊 Aspiring **Data Analyst** — self-taught in Excel, SQL, Power BI, and Python
+- 🧩 Strong at breaking down messy data into clear, structured insights
+- 📈 Skilled in **DAX, data modeling, and interactive dashboarding**
+- 🛠️ Comfortable owning a project end-to-end — from raw data, to cleaning, to a published dashboard
+- 🎯 Currently preparing for Data Analyst interviews
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -111,7 +113,7 @@ End-to-end analysis of sales, profit, regional performance, and cancellations/re
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
