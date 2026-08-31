@@ -81,21 +81,6 @@
 
 ### 🌸 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyankabehura&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1" />
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=gruvbox&hide_border=true&cache_bypass=1" />
-
-</td>
-</tr>
-</table>
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=priyankabehura&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
