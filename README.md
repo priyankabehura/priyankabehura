@@ -105,6 +105,12 @@
 
 End-to-end analysis of sales, profit, regional performance, and cancellations/returns on 3,000+ records using Excel (data cleaning, pivot tables) and Power BI (DAX measures, interactive dashboard).
 
+<br/>
+
+**💄 [Nykaa Beauty & Personal Care Sales Analytics](https://github.com/priyankabehura/nykaa-sales-analytics)**
+
+End-to-end interactive Excel dashboard analyzing ₹19L+ in net sales across 750 orders using PivotTables, PivotCharts, custom KPI tracking, and slicers with report connections.
+
 ---
 
 ### 🌸 Let's Connect
