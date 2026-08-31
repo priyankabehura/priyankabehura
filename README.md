@@ -35,7 +35,6 @@
 - 🧩 Strong at breaking down messy data into clear, structured insights
 - 📈 Skilled in **DAX, data modeling, and interactive dashboarding**
 - 🛠️ Comfortable owning a project end-to-end — from raw data, to cleaning, to a published dashboard
-- 🎯 Currently preparing for Data Analyst interviews
 
 </td>
 <td width="40%" valign="top" align="center">
