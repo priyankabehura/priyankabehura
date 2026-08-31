@@ -100,16 +100,22 @@
 ### 🌸 Featured Projects
 
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
-* **Overview:** End-to-end analysis of sales, profit, regional performance, and cancellations/returns across 3,000+ transaction records.
-* **Tech Stack:** Microsoft Excel (ETL, Data Cleaning, PivotTables), Power BI (DAX measures, interactive visuals).
-* **Key Focus:** Regional revenue distribution, return rate drivers, and product category margins.
+* **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
+* **Tech Stack:** Microsoft Excel (ETL & PivotTables), Power BI (DAX measures, interactive reporting).
+* **Key Focus:** Electronics revenue contribution (57.92%), regional sales distribution, and order peak hours.
+
+<p align="center">
+  <a href="https://github.com/priyankabehura/amazon-sales-performance-dashboard">
+    <img src="https://raw.githubusercontent.com/priyankabehura/amazon-sales-performance-dashboard/main/IMG-20260809-WA0002.jpg" width="95%" alt="Amazon Sales Performance Dashboard Preview" />
+  </a>
+</p>
 
 <br/>
 
 **💄 [Nykaa Beauty & Personal Care Sales Analytics](https://github.com/priyankabehura/nykaa-sales-analytics)**
-* **Overview:** Interactive end-to-end Excel sales dashboard tracking ₹19L+ in net sales across 750 unique orders.
-* **Tech Stack:** Microsoft Excel (PivotTables, Custom Slicers, KPI Cards, PivotCharts).
-* **Key Focus:** Category revenue contribution (Fragrance leading at 29%), city-wise sales performance (Bengaluru leading), and order trends across channels.
+* **Overview:** Interactive Excel sales dashboard evaluating ₹19L+ in net sales and ₹2,542 Average Order Value across 750 orders.
+* **Tech Stack:** Microsoft Excel (PivotTables, Connected Slicers, Custom KPI Cards, Donut & Bar Visuals).
+* **Key Focus:** Fragrance category leadership (29% share), city demand patterns (Bengaluru leading), and peak sales on Friday.
 
 <p align="center">
   <a href="https://github.com/priyankabehura/nykaa-sales-analytics">
@@ -129,3 +135,4 @@
 <p align="center"><i>⭐️ If you like my work, don't forget to star my repositories!</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E894AE,50:FFB6C1,100:FFD1DC&height=100&section=footer" />
+
