@@ -1,12 +1,12 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1e2327&height=200&section=header&text=Priyanka%20Behura&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Excel%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1e2327&height=220&section=header&text=Priyanka%20Behura&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=52&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Turning+Raw+Data+Into+Decisions;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+History+Research+To+Data+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Hi+There%2C+I'm+Priyanka+%F0%9F%91%8B;Turning+Raw+Data+Into+Decisions;Excel+%7C+SQL+%7C+Power+BI+%7C+Python" />
 </p>
 
 <p align="center">
-  <a href="mailto:priyankabehura57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
 </p>
@@ -94,9 +94,9 @@
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deloitte-Forage_Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-SQL_Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-004C97?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-86BC25?style=for-the-badge" />
 </p>
 
 ---
@@ -106,16 +106,13 @@
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
 End-to-end analysis of sales, profit, regional performance, and cancellations/returns on 3,000+ records using Excel (data cleaning, pivot tables) and Power BI (DAX measures, interactive dashboard).
 
-**💄 Nykaa Sales Dashboard** *(coming soon)*
-Pivot-table-driven sales insights and KPI tracking built in Excel.
-
 ---
 
 ## 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:priyankabehura57@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">⭐️ If you like my work, don't forget to star my repositories!</p>
