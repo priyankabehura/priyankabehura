@@ -85,12 +85,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyankabehura&show_icons=true&theme=gruvbox&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyankabehura&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1" />
 
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=gruvbox&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=gruvbox&hide_border=true&cache_bypass=1" />
 
 </td>
 </tr>
