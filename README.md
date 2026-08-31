@@ -82,9 +82,7 @@
 ### 🌸 GitHub Analytics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=gruvbox&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
@@ -102,14 +100,22 @@
 ### 🌸 Featured Projects
 
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
-
-End-to-end analysis of sales, profit, regional performance, and cancellations/returns on 3,000+ records using Excel (data cleaning, pivot tables) and Power BI (DAX measures, interactive dashboard).
+* **Overview:** End-to-end analysis of sales, profit, regional performance, and cancellations/returns across 3,000+ transaction records.
+* **Tech Stack:** Microsoft Excel (ETL, Data Cleaning, PivotTables), Power BI (DAX measures, interactive visuals).
+* **Key Focus:** Regional revenue distribution, return rate drivers, and product category margins.
 
 <br/>
 
 **💄 [Nykaa Beauty & Personal Care Sales Analytics](https://github.com/priyankabehura/nykaa-sales-analytics)**
+* **Overview:** Interactive end-to-end Excel sales dashboard tracking ₹19L+ in net sales across 750 unique orders.
+* **Tech Stack:** Microsoft Excel (PivotTables, Custom Slicers, KPI Cards, PivotCharts).
+* **Key Focus:** Category revenue contribution (Fragrance leading at 29%), city-wise sales performance (Bengaluru leading), and order trends across channels.
 
-End-to-end interactive Excel dashboard analyzing ₹19L+ in net sales across 750 orders using PivotTables, PivotCharts, custom KPI tracking, and slicers with report connections.
+<p align="center">
+  <a href="https://github.com/priyankabehura/nykaa-sales-analytics">
+    <img src="https://raw.githubusercontent.com/priyankabehura/nykaa-sales-analytics/main/IMG-20260711-WA0000.jpg" width="95%" alt="Nykaa Sales Dashboard Preview" />
+  </a>
+</p>
 
 ---
 
