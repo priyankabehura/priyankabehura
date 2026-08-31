@@ -1,8 +1,9 @@
+<!-- Banner - Soft Pink Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:E894AE&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=4A2C3D&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=58&descSize=17&descColor=5C3A4D" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=600&height=70&lines=Hi+There%2C+I'm+Priyanka+%F0%9F%8C%B8" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8D8D8D&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+%7C+Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Turning+Raw+Data+Into+Clear+Decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Clear+Decisions" />
 
 <br/>
 
@@ -18,10 +19,9 @@
 <a href="https://github.com/priyankabehura" target="_blank"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=B76E79&label=PROFILE+VIEWS" />
 
-<br/><br/>
-<img src="https://raw.githubusercontent.com/priyankabehura/priyankabehura/main/divider.svg" width="60%" height="2px"/>
-
 </div>
+
+---
 
 ### 🌸 About Me
 
@@ -127,3 +127,5 @@ End-to-end analysis of sales, profit, regional performance, and cancellations/re
 </p>
 
 <p align="center"><i>⭐️ If you like my work, don't forget to star my repositories!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E894AE,50:FFB6C1,100:FFD1DC&height=100&section=footer" />
