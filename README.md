@@ -1,46 +1,50 @@
-<!-- Banner - Emerald & Mint Tech Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,064e3b,059669,34d399&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Data%20Into%20Clarity&descAlignY=58&descSize=16&descColor=6ee7b7" />
+<!-- Banner - Soft Pink Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:E894AE&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=4A2C3D&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=58&descSize=17&descColor=5C3A4D" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=34d399&center=true&vCenter=true&width=550&lines=Transforming+Raw+Datasets+into+Strategic+Decisions;SQL+%E2%80%A2+Excel+%E2%80%A2+Power+BI+%E2%80%A2+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Clear+Decisions" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Analytics-064e3b?style=flat-square&logo=googleanalytics&logoColor=34d399" />
-<img src="https://img.shields.io/badge/Visualization-059669?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Querying-10b981?style=flat-square&logo=databricks&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-6E7F80?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-6E7F80?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-6E7F80?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-6E7F80?style=flat-square&logo=python&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-064e3b?style=for-the-badge&logo=linkedin&logoColor=34d399" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-059669?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/priyankabehura" target="_blank"><img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=34d399" /></a>
-<img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=059669&label=PROFILE+VIEWS" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B76E79?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4A6670?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/priyankabehura" target="_blank"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=B76E79&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-### 💻 About Me
+### 🌸 About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-🔹 **Location:** West Bengal, India <br>
-🔹 **Education:** B.A. Honours, University of Kalyani <br>
-🔹 **Core Focus:** Aspiring **Data Analyst** specializing in turning complex tables into clean insights <br>
-🔹 **Key Strengths:** Advanced Excel, SQL querying, interactive Power BI reporting, and Python scripting <br>
-🔹 **Current Objective:** Actively seeking full-time Data Analyst opportunities
+- 📍 Based in West Bengal, India
+- 🎓 B.A. Honours, University of Kalyani
+- 📊 Aspiring **Data Analyst** — self-taught in Excel, SQL, Power BI, and Python
+- 🧩 Strong at breaking down messy data into clear, structured insights
+- 📈 Skilled in **DAX, data modeling, and interactive dashboarding**
+- 🛠️ Comfortable owning a project end-to-end — from raw data, to cleaning, to a published dashboard
+- 🎯 Currently preparing for Data Analyst interviews
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-**Core Stack**<br><br>
-<img src="https://img.shields.io/badge/Excel-064e3b?style=flat-square&logo=microsoft-excel&logoColor=34d399" /><br><br>
-<img src="https://img.shields.io/badge/PowerBI-059669?style=flat-square&logo=powerbi&logoColor=white" /><br><br>
-<img src="https://img.shields.io/badge/SQL-10b981?style=flat-square&logo=mysql&logoColor=black" />
+**Most Used Tools**
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql" /><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 </td>
 </tr>
@@ -48,56 +52,62 @@
 
 ---
 
-### ⚡ Tech Arsenal
+### 🌸 Tech Stack
+
+<table>
+<tr>
+<th>Spreadsheets</th>
+<th>Querying</th>
+<th>Visualization</th>
+<th>Programming</th>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" width="50"/></td>
+<td><img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-064e3b?style=for-the-badge&logo=microsoft-excel&logoColor=34d399" />
-  <img src="https://img.shields.io/badge/MySQL-059669?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-10b981?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-047857?style=for-the-badge&logo=python&logoColor=34d399" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/DAX-064e3b?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-059669?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-10b981?style=flat-square&logo=numpy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-047857?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-065f46?style=flat-square&logo=python&logoColor=34d399" />
-</p>
-
----
-
-### 📊 GitHub Analytics (Live)
-
-<p align="center">
-  <!-- Custom Emerald Theme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankabehura&show_icons=true&bg_color=030712&title_color=34d399&text_color=9ca3af&icon_color=059669&hide_border=true" height="165" alt="GitHub Stats" />
-  <!-- Custom Emerald Theme Streak -->
-  <img src="https://streak-stats.demolab.com/?user=priyankabehura&background=030712&ring=059669&fire=059669&currStreakNum=34d399&sideLabels=9ca3af&currStreakLabel=9ca3af&statReads=9ca3af&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <!-- Custom Emerald Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabehura&layout=compact&bg_color=030712&title_color=34d399&text_color=9ca3af&hide_border=true" width="400" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 📜 Certifications
+### 🌸 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankabehura&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=priyankabehura&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabehura&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+</p>
+
+---
+
+### 🌸 Certifications
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/7528f2085183?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-064e3b?style=for-the-badge&logo=hackerrank&logoColor=34d399" alt="HackerRank SQL Basic Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-6E7F80?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
   </a>
   <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a533e2b6e8414e4b8ccbe05_1786546252519_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-059669?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
+    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-6E7F80?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
   </a>
   <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-047857?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
+    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-6E7F80?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
   </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🌸 Featured Projects
 
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
 * **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
@@ -106,7 +116,7 @@
 
 <p align="center">
   <a href="https://github.com/priyankabehura/amazon-sales-performance-dashboard">
-    <img src="https://raw.githubusercontent.com/priyankabehura/amazon-sales-performance-dashboard/main/IMG-20260809-WA0002.jpg" width="90%" style="border-radius:10px; box-shadow: 0 4px 12px rgba(5,150,105,0.2);" alt="Amazon Sales Performance Dashboard Preview" />
+    <img src="https://raw.githubusercontent.com/priyankabehura/amazon-sales-performance-dashboard/main/IMG-20260809-WA0002.jpg" width="95%" alt="Amazon Sales Performance Dashboard Preview" />
   </a>
 </p>
 
@@ -119,13 +129,19 @@
 
 <p align="center">
   <a href="https://github.com/priyankabehura/nykaa-sales-analytics">
-    <img src="https://raw.githubusercontent.com/priyankabehura/nykaa-sales-analytics/main/IMG-20260711-WA0000.jpg" width="90%" style="border-radius:10px; box-shadow: 0 4px 12px rgba(5,150,105,0.2);" alt="Nykaa Dashboard Preview" />
+    <img src="https://raw.githubusercontent.com/priyankabehura/nykaa-sales-analytics/main/IMG-20260711-WA0000.jpg" width="95%" alt="Nykaa Sales Dashboard Preview" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>💡 "In God we trust, all others must bring data." 💡<br>Feel free to explore and star my repositories if you find them helpful!</i></p>
+### 🌸 Let's Connect
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34d399,059669,064e3b,030712&height=100&section=footer" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4A6670?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B76E79?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+<p align="center"><i>⭐️ If you like my work, don't forget to star my repositories!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E894AE,50:FFB6C1,100:FFD1DC&height=100&section=footer" />
