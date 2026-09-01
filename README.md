@@ -1,4 +1,3 @@
-
 <!-- Banner - Warm Orange-Yellow Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE29A,50:FFC371,100:FF9A44&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=5C3A1A&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=58&descSize=17&descColor=6E4A22" />
 
@@ -90,9 +89,15 @@
 ### 🌻 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-8A6D3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-8A6D3B?style=for-the-badge" />
+  <a href="https://www.hackerrank.com/certificates/7528f2085183?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a533e2b6e8414e4b8ccbe05_1786546252519_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-8A6D3B?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-8A6D3B?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
+  </a>
 </p>
 
 ---
