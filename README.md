@@ -36,6 +36,7 @@
 - 📈 Skilled in **DAX, data modeling, and interactive dashboarding**
 - 🛠️ Comfortable owning a project end-to-end — from raw data, to cleaning, to a published dashboard
 
+
 </td>
 <td width="40%" valign="top" align="center">
 
@@ -90,4 +91,53 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/7528f2085183?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-8A6D3B?style=for-the-badge&logo=hackerrank&logoCol
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a533e2b6e8414e4b8ccbe05_1786546252519_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-8A6D3B?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-8A6D3B?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
+  </a>
+</p>
+
+---
+
+### 🌻 Featured Projects
+
+**📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
+* **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
+* **Tech Stack:** Microsoft Excel (ETL & PivotTables), Power BI (DAX measures, interactive reporting).
+* **Key Focus:** Electronics revenue contribution (57.92%), regional sales distribution, and order peak hours.
+
+<p align="center">
+  <a href="https://github.com/priyankabehura/amazon-sales-performance-dashboard">
+    <img src="https://raw.githubusercontent.com/priyankabehura/amazon-sales-performance-dashboard/main/IMG-20260809-WA0002.jpg" width="95%" alt="Amazon Sales Performance Dashboard Preview" />
+  </a>
+</p>
+
+<br/>
+
+**💄 [Nykaa Beauty & Personal Care Sales Analytics](https://github.com/priyankabehura/nykaa-sales-analytics)**
+* **Overview:** Interactive Excel sales dashboard evaluating ₹19L+ in net sales and ₹2,542 Average Order Value across 750 orders.
+* **Tech Stack:** Microsoft Excel (PivotTables, Connected Slicers, Custom KPI Cards, Donut & Bar Visuals).
+* **Key Focus:** Fragrance category leadership (29% share), city demand patterns (Bengaluru leading), and peak sales on Friday.
+
+<p align="center">
+  <a href="https://github.com/priyankabehura/nykaa-sales-analytics">
+    <img src="https://raw.githubusercontent.com/priyankabehura/nykaa-sales-analytics/main/IMG-20260711-WA0000.jpg" width="95%" alt="Nykaa Sales Dashboard Preview" />
+  </a>
+</p>
+
+---
+
+### 🌻 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-C9A227?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E08D3C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ If you like my work, don't forget to star my repositories!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A44,50:FFC371,100:FFE29A&height=100&section=footer" />
