@@ -128,7 +128,7 @@
   </a>
 </p>
 
-### 🧑‍💼 [HR Attrition & Employee Analysis](https://github.com/priyankabehura/HR-Attrition-Employee-Analysis-)
+### 👩🏻‍💼 [HR Attrition & Employee Analysis](https://github.com/priyankabehura/HR-Attrition-Employee-Analysis-)
 * **Overview:** End-to-end HR Analytics project analyzing 3,000 employee records — 51.10% attrition rate, 1,467 active employees.
 * **Tech Stack:** Excel (data cleaning), MySQL (validation, JOINs, CTEs, Window Functions), Power BI (DAX, KPIs, interactive dashboard).
 * **Key Focus:** Department-wise attrition, tenure trends, gender distribution, satisfaction & work-life balance analysis.
