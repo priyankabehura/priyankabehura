@@ -128,6 +128,14 @@
   </a>
 </p>
 
+### 🧑‍💼 [HR Attrition & Employee Analysis](https://github.com/priyankabehura/HR-Attrition-Employee-Analysis-)
+* **Overview:** End-to-end HR Analytics project analyzing 3,000 employee records — 51.10% attrition rate, 1,467 active employees.
+* **Tech Stack:** Excel (data cleaning), MySQL (validation, JOINs, CTEs, Window Functions), Power BI (DAX, KPIs, interactive dashboard).
+* **Key Focus:** Department-wise attrition, tenure trends, gender distribution, satisfaction & work-life balance analysis.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyankabehura/HR-Attrition-Employee-Analysis-/main/IMG-20260904-WA0025.jpg" width="85%" alt="HR Analytics Dashboard">
+</p>
 ---
 
 ### 🌻 Let's Connect
