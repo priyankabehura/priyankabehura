@@ -98,6 +98,16 @@
   <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-8A6D3B?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
   </a>
+  [
+
+![HACKERRANK](https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
+
+](https://www.hackerrank.com/certificates/0b1dea392b57)
+[
+
+![SQL (INTERMEDIATE)](https://img.shields.io/badge/SQL%20(INTERMEDIATE)
+
+-2EC866?style=for-the-badge)](https://www.hackerrank.com/certificates/0b1dea392b57)
 </p>
 
 ---
