@@ -110,6 +110,7 @@
 * **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
 * **Tech Stack:** Microsoft Excel (ETL & PivotTables), Power BI (DAX measures, interactive reporting).
 * **Key Focus:** Electronics revenue contribution (57.92%), regional sales distribution, and order peak hours.
+* **Report:** [📄 Full Project Report (PDF)](https://drive.google.com/file/d/11o2JcdgL4owf_rif4zIPyp5XumdXT5tF/view?usp=drivesdk)
 
 <p align="center">
   <a href="https://github.com/priyankabehura/amazon-sales-performance-dashboard">
@@ -123,6 +124,7 @@
 * **Overview:** Interactive Excel sales dashboard evaluating ₹19L+ in net sales and ₹2,542 Average Order Value across 750 orders.
 * **Tech Stack:** Microsoft Excel (PivotTables, Connected Slicers, Custom KPI Cards, Donut & Bar Visuals).
 * **Key Focus:** Fragrance category leadership (29% share), city demand patterns (Bengaluru leading), and peak sales on Friday.
+* **Report:** [📄 Full Project Report (PDF)](https://drive.google.com/file/d/15g1303JeXi_wJObYAQs25XI_VoViOHR7/view?usp=drivesdk)
 
 <p align="center">
   <a href="https://github.com/priyankabehura/nykaa-sales-analytics">
@@ -134,6 +136,7 @@
 * **Overview:** End-to-end HR Analytics project analyzing 3,000 employee records — 51.10% attrition rate, 1,467 active employees.
 * **Tech Stack:** Excel (data cleaning), MySQL (validation, JOINs, CTEs, Window Functions), Power BI (DAX, KPIs, interactive dashboard).
 * **Key Focus:** Department-wise attrition, tenure trends, gender distribution, satisfaction & work-life balance analysis.
+* **Report:** [📄 Full Project Report (PDF)](https://drive.google.com/file/d/1V3eCPDbPPtMqgM_KVTdAZA0dcg54_uXw/view?usp=drivesdk)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/priyankabehura/HR-Attrition-Employee-Analysis-/main/IMG-20260904-WA0025.jpg" width="85%" alt="HR Analytics Dashboard">
