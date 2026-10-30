@@ -143,6 +143,20 @@
 </p>
 ---
 
+<br/>
+
+**💼 [Data Analyst Job Market & Hiring Trends Analysis (US)](https://github.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US)**
+* **Overview:** End-to-end analysis of 58,775 US data analyst job postings (Nov 2022 – Apr 2025) from the Kaggle dataset by lukebarousse, with 44.9% remote jobs and a median salary of $88.8K.
+* **Tech Stack:** Power Query (data cleaning, custom columns, skills split into rows), Power BI (interactive dashboard with slicers).
+* **Key Focus:** SQL as the most in-demand skill (49.78% of jobs), median salary by skill, seniority mix, quarterly hiring trend, and top hiring companies.
+* **Report:** [📄 Full Project Report (PDF)](https://github.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US/blob/main/Job%20Market%20Project%20-%20Full%20Report%20%282%29.pdf)
+
+<p align="center">
+  <a href="https://github.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US">
+    <img src="https://raw.githubusercontent.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US/main/dashboard-overview.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />
+  </a>
+</p>
+
 ### 🌻 Let's Connect
 
 <p align="center">
