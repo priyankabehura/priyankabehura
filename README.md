@@ -152,7 +152,7 @@
 
 <p align="center">
   <a href="https://github.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US">
-    <img src="job-market-dashboard.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />
+      <img src="https://raw.githubusercontent.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US/main/Screenshot%202026-10-24%20100159.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />
   </a>
 </p>
 
