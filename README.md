@@ -153,8 +153,7 @@
 
 <p align="center">
   <a href="https://github.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US">
-    <img src="https://raw.githubusercontent.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US/main/dashboard-overview.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />
-  </a>
+    <img src="https://raw.githubusercontent.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US/main/Screenshot_2026-10-24_100159.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />  </a>
 </p>
 
 ### 🌻 Let's Connect
