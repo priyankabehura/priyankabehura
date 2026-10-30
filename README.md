@@ -141,7 +141,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/priyankabehura/HR-Attrition-Employee-Analysis-/main/IMG-20260904-WA0025.jpg" width="85%" alt="HR Analytics Dashboard">
 </p>
----
 
 <br/>
 
@@ -153,8 +152,11 @@
 
 <p align="center">
   <a href="https://github.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US">
-    <img src="https://raw.githubusercontent.com/priyankabehura/Data-Analyst-Job-Market-Hiring-Trends-Analysis-US/main/Screenshot_2026-10-24_100159.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />  </a>
+    <img src="job-market-dashboard.png" width="95%" alt="Data Analyst Job Market Dashboard Preview" />
+  </a>
 </p>
+
+---
 
 ### 🌻 Let's Connect
 
