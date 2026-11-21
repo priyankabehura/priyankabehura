@@ -1,5 +1,5 @@
 <!-- Banner - Soft Pink to Rich Mauve Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:D99AC5,100:9E6B8E&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=3D1E32&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Reporting%20%26%20Operations%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Business%20Analyst&descAlignY=58&descSize=16&descColor=4A253D" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:D99AC5,100:9E6B8E&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=3D1E32&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Reporting%20%E2%80%A2%20Operations%20%7C%20MIS%20%7C%20Business%20Analyst&descAlignY=58&descSize=16&descColor=4A253D" />
 
 <div align="center">
 
