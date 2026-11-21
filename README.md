@@ -1,23 +1,23 @@
-<!-- Banner - Soft Pink Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB6C1,100:E894AE&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=4A2C3D&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Excel%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python&descAlignY=58&descSize=17&descColor=5C3A4D" />
+<!-- Banner - Soft Pink to Rich Mauve Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:D99AC5,100:9E6B8E&height=220&section=header&text=Priyanka%20Behura&fontSize=42&fontColor=3D1E32&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Reporting%20%26%20Operations%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Business%20Analyst&descAlignY=58&descSize=16&descColor=4A253D" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Clear+Decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9E6B8E&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Clear+Decisions" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Excel-6E7F80?style=flat-square&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-6E7F80?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-6E7F80?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-6E7F80?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-8E6280?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-8E6280?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-8E6280?style=flat-square&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-8E6280?style=flat-square&logo=python&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B76E79?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4A6670?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/priyankabehura" target="_blank"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=B76E79&label=PROFILE+VIEWS" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C06C84?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7D4E6D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/priyankabehura" target="_blank"><img src="https://img.shields.io/badge/GitHub-3D2C3A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=priyankabehura&style=for-the-badge&color=9E6B8E&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -90,34 +90,34 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/12fbf164453a?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-B76E79?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-C06C84?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced Certificate" />
   </a>
   <a href="https://www.hackerrank.com/certificates/0b1dea392b57" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-B76E79?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-C06C84?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate Certificate" />
   </a>
   <a href="https://www.hackerrank.com/certificates/7528f2085183?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-B76E79?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-C06C84?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6a533e2b6e8414e4b8ccbe05_1793596691117_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-British_Airways_Data_Science-9D6B84?style=for-the-badge" alt="British Airways Data Science Certificate" />
+    <img src="https://img.shields.io/badge/Forage-British_Airways_Data_Science-9E6B8E?style=for-the-badge" alt="British Airways Data Science Certificate" />
   </a>
   <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a533e2b6e8414e4b8ccbe05_1786546252519_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-9D6B84?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
+    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-9E6B8E?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
   </a>
   <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-9D6B84?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
+    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-9E6B8E?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://certificates.simplicdn.net/share/10970282_11319672_1793370695876.png" target="_blank">
-    <img src="https://img.shields.io/badge/Simplilearn-Power_BI_Data_Modeling_with_DAX-7D4E6D?style=for-the-badge" alt="Simplilearn Power BI Data Modeling with DAX Certificate" />
+    <img src="https://img.shields.io/badge/Simplilearn-Power_BI_Data_Modeling_with_DAX-754668?style=for-the-badge" alt="Simplilearn Power BI Data Modeling with DAX Certificate" />
   </a>
   <a href="https://certificates.simplicdn.net/share/10960146_10743998_1793211343580.png" target="_blank">
-    <img src="https://img.shields.io/badge/Simplilearn-Business_Analytics_with_Excel-7D4E6D?style=for-the-badge" alt="Simplilearn Business Analytics with Excel Certificate" />
+    <img src="https://img.shields.io/badge/Simplilearn-Business_Analytics_with_Excel-754668?style=for-the-badge" alt="Simplilearn Business Analytics with Excel Certificate" />
   </a>
 </p>
 
@@ -198,10 +198,10 @@
 ### 🌸 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4A6670?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B76E79?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyanka-behura-330807375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7D4E6D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyankabehura57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C06C84?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ If you like my work, don't forget to star my repositories!</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E894AE,50:FFB6C1,100:FFD1DC&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9E6B8E,50:D99AC5,100:FFD1DC&height=100&section=footer" />
