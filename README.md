@@ -30,12 +30,11 @@
 <td width="60%" valign="top">
 
 - 📍 Based in West Bengal, India
-- 🎓 B.A. Honours, University of Kalyani
-- 📊 Aspiring **Data Analyst** — self-taught in Excel, SQL, Power BI, and Python
-- 🧩 Strong at breaking down messy data into clear, structured insights
-- 📈 Skilled in **DAX, data modeling, and interactive dashboarding**
-- 🛠️ Comfortable owning a project end-to-end — from raw data, to cleaning, to a published dashboard
-
+- 🎓 B.A. History Honours, University of Kalyani
+- 💼 **2+ years of operations experience** in Excel-based MIS reporting, SLA/TAT monitoring, workforce scheduling, and Root Cause Analysis (RCA)
+- 📊 **Technical Skills:** Excel (Pivot Tables, VLOOKUP, XLOOKUP), Power Query, Power BI (DAX, Data Modeling), SQL (Joins, CTEs, Window Functions), and Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 📈 Built end-to-end analytics projects — cleaning large datasets (60K+ records), building KPI dashboards, and delivering business insights
+- 🎯 Seeking **Data Analyst, MIS/Reporting Analyst, Operations Analyst, or Business Analyst** roles
 </td>
 <td width="40%" valign="top" align="center">
 
