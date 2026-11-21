@@ -88,33 +88,40 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/12fbf164453a?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-E08D3C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced Certificate" />
   </a>
   <a href="https://www.hackerrank.com/certificates/0b1dea392b57" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-E08D3C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate Certificate" />
   </a>
   <a href="https://www.hackerrank.com/certificates/7528f2085183?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
-  </a>
-  <a href="https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6a533e2b6e8414e4b8ccbe05_1793596691117_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-British_Airways_Data_Science-8A6D3B?style=for-the-badge" alt="British Airways Data Science Certificate" />
-  </a>
-  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a533e2b6e8414e4b8ccbe05_1786546252519_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-8A6D3B?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
-  </a>
-  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-8A6D3B?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
-  </a>
-  <a href="https://certificates.simplicdn.net/share/10970282_11319672_1793370695876.png" target="_blank">
-    <img src="https://img.shields.io/badge/Simplilearn-Power_BI_Data_Modeling_with_DAX-8A6D3B?style=for-the-badge" alt="Simplilearn Power BI Data Modeling with DAX Certificate" />
-  </a>
-  <a href="https://certificates.simplicdn.net/share/10960146_10743998_1793211343580.png" target="_blank">
-    <img src="https://img.shields.io/badge/Simplilearn-Business_Analytics_with_Excel-8A6D3B?style=for-the-badge" alt="Simplilearn Business Analytics with Excel Certificate" />
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-E08D3C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Basic Certificate" />
   </a>
 </p>
 
-###🌻 Featured Projects
+<p align="center">
+  <a href="https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6a533e2b6e8414e4b8ccbe05_1793596691117_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-British_Airways_Data_Science-C9A227?style=for-the-badge" alt="British Airways Data Science Certificate" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_6a533e2b6e8414e4b8ccbe05_1786546252519_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-Tata_Data_Visualisation-C9A227?style=for-the-badge" alt="Tata Data Visualisation Certificate" />
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-C9A227?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://certificates.simplicdn.net/share/10970282_11319672_1793370695876.png" target="_blank">
+    <img src="https://img.shields.io/badge/Simplilearn-Power_BI_Data_Modeling_with_DAX-D97706?style=for-the-badge" alt="Simplilearn Power BI Data Modeling with DAX Certificate" />
+  </a>
+  <a href="https://certificates.simplicdn.net/share/10960146_10743998_1793211343580.png" target="_blank">
+    <img src="https://img.shields.io/badge/Simplilearn-Business_Analytics_with_Excel-D97706?style=for-the-badge" alt="Simplilearn Business Analytics with Excel Certificate" />
+  </a>
+</p>
+
+---
+
+### 🌻 Featured Projects
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
 * **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
 * **Tech Stack:** Microsoft Excel (ETL & PivotTables), Power BI (DAX measures, interactive reporting).
