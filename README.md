@@ -156,6 +156,20 @@
   </a>
 </p>
 
+<br/>
+
+**🎧 [Technical Support SLA & Performance Analysis](https://github.com/priyankabehura/Technical-Support-SLA-Performance-Analysis)**
+- **Overview:** End-to-end SLA & performance analysis of 2,330 technical support tickets (Jan–Dec 2023) tracking 86.7% First Response SLA, 66.4% Resolution SLA, 418 open backlog tickets, and 3.51 avg CSAT.
+- **Tech Stack:** Excel, Power Query, VBA Macros, Pivot Tables, DAX, Power BI (data cleaning, MIS automation, data modelling, KPI design, dashboard design, data storytelling).
+- **Key Focus:** Quarterly Resolution SLA decline (73.5% in Q1 to 60.8% in Q4), 1st vs 2nd line support workload (75.97% on 1st line), channel performance, and agent-level SLA vs CSAT.
+- **Report:** [📄 Full Project Report (PDF)](https://drive.google.com/file/d/1e5a65U29J3NFtSzeJOvWmdKM6OS_HlCE/view?usp=drive_link)
+
+<p align="center">
+  <a href="https://github.com/priyankabehura/Technical-Support-SLA-Performance-Analysis">
+    <img src="https://raw.githubusercontent.com/priyankabehura/Technical-Support-SLA-Performance-Analysis/main/Screenshot%202026-11-21%20120446.png" width="95%" alt="Technical Support SLA & Performance Dashboard Preview" />
+  </a>
+</p>
+
 ---
 
 ### 🌻 Let's Connect
