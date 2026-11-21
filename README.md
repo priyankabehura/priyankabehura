@@ -112,7 +112,8 @@
     <img src="https://img.shields.io/badge/Simplilearn-Business_Analytics_with_Excel-8A6D3B?style=for-the-badge" alt="Simplilearn Business Analytics with Excel Certificate" />
   </a>
 </p>
-### 🌻 Featured Projects
+
+###🌻 Featured Projects
 
 **📦 [Amazon Sales Performance Dashboard](https://github.com/priyankabehura/amazon-sales-performance-dashboard)**
 * **Overview:** End-to-end analysis tracking ₹17.07M total sales, ₹2.58M profit, and customer ratings across 3,000+ records.
