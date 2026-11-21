@@ -100,9 +100,6 @@
   <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a533e2b6e8414e4b8ccbe05_1783851803160_completion_certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-8A6D3B?style=for-the-badge" alt="Deloitte Data Analytics Certificate" />
   </a>
-### 🌻 Certifications
-
-<p align="center">
   <a href="https://www.hackerrank.com/certificates/12fbf164453a?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-8A6D3B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Advanced Certificate" />
   </a>
